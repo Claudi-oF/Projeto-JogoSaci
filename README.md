@@ -67,7 +67,7 @@ Durante a jornada, o jogador poderá:
 - **Segredos e áreas escondidas:** Túneis subterrâneos, árvores ocas, rios secretos.  
 - **Progressão de habilidades:** Cada chefe derrotado desbloqueia novas habilidades para o Saci.  
 - **Mini-missões:** Ajudar espíritos, consertar pontes, resolver enigmas ambientais.
-- - **História dos Personagens:** Ao derrotar um inimigo, o jogador coleta uma “Página do Folclore” com curiosidades sobre o personagem (Curupira, Boitatá, Iara etc.). Essas páginas ficam salvas em um “Diário do Viajante”, que o jogador pode consultar no menu.
+- **História dos Personagens:** Ao derrotar um inimigo, o jogador coleta uma “Página do Folclore” com curiosidades sobre o personagem (Curupira, Boitatá, Iara etc.). Essas páginas ficam salvas em um “Diário do Viajante”, que o jogador pode consultar no menu.
 
 ---
 
